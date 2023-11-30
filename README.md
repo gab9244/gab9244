@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Francisco</h1>
 <h3 align="center">A passionate frontend developer from Brazil, that is looking for oportunities.</h3>
-<img align = "right" alt= "Russian coding" width = "400" scr = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align = "right" alt= "Russian coding" width = "500" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gab9244&label=Profile%20views&color=0e75b6&style=flat" alt="gab9244" /> </p>
 
