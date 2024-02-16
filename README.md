@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **gab9244@gmail.com**
+- 📫 How to reach me **gab92445@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-francisco-s/](https://www.linkedin.com/in/gabriel-francisco-s/)
 
