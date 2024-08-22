@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://gab9244.github.io/MyPortfolio/](https://my-portfolio-f2xe.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-f2xe.vercel.app/)
 
 - 💬 Ask me about **JavaScript**
 
